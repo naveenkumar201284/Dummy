@@ -11,6 +11,8 @@ public class Test1 {
 		
 		if(a>b) {
 			System.out.println("The record get failed");
+			System.out.println("The record get pass");
+
 		}
 
 	}
